@@ -1,5 +1,7 @@
 # KARAMOJA FOOD INSECURITY: Interactive data visualizations for the food security monitoring tool that will be developed by the DDI for Karamoja NGO
 Assessment
+
+#### link to tableau dashboard : https://public.tableau.com/profile/elizabeth.josephine#!/vizhome/karamojadataset-indeprendentprojectweek1_ELIZABETH_JOSEPHINE/Dashboard3
 ## Overview 
 
 Karamoja (https://en.wikipedia.org/wiki/Karamoja) is the most food-insecure region of Uganda. One of the main reasons is the low productivity level of the crops due to intense droughts as well as pest and disease outbreaks.
